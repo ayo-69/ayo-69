@@ -1,6 +1,6 @@
 ## Hi, I'm Isaac 👋
 
-I'm a Software Engineer and Geophysics student passionate about building solid, scalable backend systems and smart contracts. I work mainly with Go, JavaScript, and Solidity, and I enjoy learning and shipping fast.
+I'm a Software Engineer and Computer Science student passionate about building solid, scalable backend systems and smart contracts. I work mainly with Go, JavaScript, and Solidity, and I enjoy learning and shipping fast.
 
 ---
 
