@@ -16,5 +16,3 @@ I'm a Software Engineer and Computer Science student passionate about building s
 ---
 
 📫 [GitHub](https://github.com/ayo-69) • [LinkedIn](https://www.linkedin.com/in/isaac-hayab-3b65492a7)
-ayo-69/ayo-69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
