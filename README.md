@@ -15,4 +15,4 @@ I'm a Software Engineer and Computer Science student passionate about building s
 > 
 ---
 
-📫 [GitHub](https://github.com/ayo-69) • [LinkedIn](https://www.linkedin.com/in/isaac-hayab-3b65492a7) • [Whatsapp](https://wa.me/23428641942)
+📫 [GitHub](https://github.com/ayo-69) • [LinkedIn](https://www.linkedin.com/in/isaac-hayab-3b65492a7) • [Whatsapp](https://wa.me/2348028641942)
