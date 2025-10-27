@@ -5,7 +5,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<div align="center"><b>Software Engineer | Backend Dev (Go / Rust / Node.js) | Web3 Explorer</b></div>
+<div align="center"><b>Software Engineer | Backend Dev (Go / Node.js) | Web3 Explorer</b></div>
 
 ---
 
@@ -16,17 +16,17 @@ Currently focusing on **Go development**, **Rust systems programming**, and **sm
 - 🌍 Based in **Minna, Nigeria**  
 - 💻 Building **SaaS products**, **trading platforms**, and **real-time APIs**  
 - 🔒 Exploring **smart contract security & auditing**  
-- 🧠 Learning: **Go**, **Rust**, **Solidity**, **Zig**, **Sui Move**  
+- 🧠 Learning: **Go**, **Solidity**,
 - ☕ Fueled by caffeine, curiosity, and clever engineering  
 
 ---
 
 ## 🛠️ Core Stack
 
-**Languages:** Go, Rust, TypeScript, JavaScript, Solidity, Python, C++  
-**Frameworks & Libraries:** Gin, Echo, Fiber, Express, Next.js, React, Rocket, Flask  
+**Languages:** Go, TypeScript, JavaScript, Solidity
+**Frameworks & Libraries:** Gin, Echo, Fiber, Express, Next.js, React  
 **Databases:** PostgreSQL, MySQL, MongoDB, Redis  
-**Cloud & DevOps:** Docker, CI/CD (GitHub Actions), MinIO, Railway, Render, Fly.io, Garage  
+**Cloud & DevOps:** Docker, CI/CD (GitHub Actions), MinIO, Railway, Render, Fly.io  
 **Blockchain Tools:** Foundry, Hardhat, Ethers.js, Web3.js  
 **Other Tools:** Bash, Neovim, Git, Linux  
 
