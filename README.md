@@ -67,7 +67,7 @@ Currently focusing on **Go development**, **Rust systems programming**, and **sm
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayo-69&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayo-69&show_icons=true&theme=ashen" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayo-69&layout=compact&theme=tokyonight" height="160" />
 </div>
 
